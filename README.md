@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 - KVPY Scholar
 - IAS Summer Research Fellow
-- Thinking
+- Topper
 
 
 **Cool** and _Prudent_ and `Ingenious` Obviouly.
@@ -28,7 +28,7 @@ Syntax highlighted code block
 ```
 [GIT](https://github.com/vivekgoyanka/bionic1) and ![Image](https://drive.google.com/open?id=1sSywm6O4OCvg0_q9UI4sdH-tTH_vFeGZ)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+//For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
