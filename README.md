@@ -3,7 +3,7 @@ This is phase I of my website design.
 
 ## My current roomie is [Nahmed Nissar](https://www.linkedin.com/in/nahmed-nissar-a4411b145/)
 
-I have a imbecile brother who is doing MBBS : [Ankit Goyanka](https://www.facebook.com/ankit.goyanka). 
+I have a imbecile brother who is doing MBBS : [Ankt Goyanka](https://www.facebook.com/ankit.goyanka). 
 
 DISCLAIMER : This website is solely for testing purpose. Stay connected for new updates.
 
